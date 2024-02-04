@@ -12,3 +12,7 @@ def more_goodbye():
 
 # Bad syntax
 # foo =
+
+#mkae some changes
+def random():
+    return
